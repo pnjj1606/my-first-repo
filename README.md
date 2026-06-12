@@ -8,6 +8,6 @@ A simple Python utility for greeting users.
 python greet.py Alice
 ```
 
-## Instalation
+## Installation
 
 No dependencies required. Just run with Python 3.
